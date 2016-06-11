@@ -2,4 +2,4 @@
 
 Esta seria de libros cuenta la historia de un hacker de los que hay pocos.
 
-**Christian Escalante**, Git lover
+**Christian Escalante**, Git lover & Larry Plotter Lover
